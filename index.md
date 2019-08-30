@@ -17,11 +17,13 @@ Z6, Am Hubland, 97074 Würzburg
 
 | Slot               |           Event           |
 |:------------------ |:------------------------- |
-| 14:00 - 14:50      | Welcome and general presentation of the AutoCV2 Challenge and AutoDL challenges. |
+| 14:00 - 14:10      | Welcome and announcement of beginning of **on-site hackathon**. |
+| 14:10 - 14:50      | General presentation of the AutoCV2 Challenge and AutoDL challenges. |
 | 14:50 - 15:10      | Invited talk 1  |
 | 15:10 - 15:30      | Invited talk 2  |
-| 15:30 - 15:50      | Invited talk 3  |
-| 15:50 - 16:00      | Recorded Presentation  |
+| 15:30 - 15:40      | Recorded Presentation  |
+| 15:40 - 16:00      | Invited talk 3  |
+
 
 # Invited Speakers
 
@@ -29,9 +31,9 @@ Z6, Am Hubland, 97074 Würzburg
 
 * **Kirill Romanov** from team _kvr_ (3rd place)
 
-* **Curtis Kim** (to be confirmed) from team _kakaobrain_ (1st place, also 1st place in AutoCV Challenge)
-
 * **Lang Tang** (to be confirmed) from team _tanglang_ (2nd place)
+
+* **Curtis Kim** (to be confirmed) from team _kakaobrain_ (1st place, also 1st place in AutoCV Challenge)
 
 * ...
 
