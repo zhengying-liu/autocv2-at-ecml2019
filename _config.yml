@@ -1,1 +1,8 @@
+title: AutoCV2 Challenge Workshop @ ECML PKDD 2019
+description: Wurzburg, Germany, Friday 20 September 2019
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-slate
+github:
+  is_project_page: true
+  repository_url: http://autodl.chalearn.org
