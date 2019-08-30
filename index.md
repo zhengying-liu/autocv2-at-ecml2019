@@ -40,7 +40,7 @@ Z6, Am Hubland, 97074 Würzburg
 * ...
 
 # Call for Abstracts
-Challenge winners are invited to submit a 2-page extended abstract describing
+Challenge winners/top-rankers are invited to submit a 2-page extended abstract describing
 their approach used in AutoCV2 Challenge.
 
 Papers must be written in English and formatted according to the Springer LNCS
