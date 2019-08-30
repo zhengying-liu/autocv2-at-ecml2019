@@ -47,6 +47,8 @@ Papers must be written in English and formatted according to the Springer LNCS
 guidelines. Author instructions, style files and the copyright form can be
 downloaded [here](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 
+Submission via: [autodl@chalearn.org](mailto:autodl@chalearn.org)
+
 # Important Dates
 * Abstract Submission Deadline: 13 September, 2019
 * Workshop: 20 September, 2019
