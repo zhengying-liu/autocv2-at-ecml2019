@@ -24,7 +24,7 @@ Z6, Am Hubland, 97074 Würzburg
 |:------------------ |:------------------------- |
 | 14:00-14:10      | Welcome and announcement of beginning of **on-site hackathon**. |
 | 14:10-14:50      | General presentation of the AutoCV2 Challenge and AutoDL challenges. |
-| 14:50-15:10      | Invited talk 1: **Meta Neural Architecture Search**, Chenglin Wu  |
+| 14:50-15:10      | Invited talk 1: **Meta Neural Architecture Search**, Jinlin Wang  |
 | 15:10-15:30      | Invited talk 2: **Efficient Deep Representation Optimization for Cross-Modal Automated Deep Learning under Time and Space Constraints**, Mohammadreza Amirian  |
 | 15:30-15:40      | Recorded Presentation: **Generalized Distribution Learning for Effective Neural Architecture Search**, Lang Tang  |
 | 15:40-16:00      | Invited talk 3: **Fast AutoAugment**, Curtis Kim  |
@@ -32,7 +32,7 @@ Z6, Am Hubland, 97074 Würzburg
 
 # Invited Speakers
 
-* **Chenglin Wu**, from team _ether_ (5th place)
+* **Jinlin Wang**, from team _ether_ (5th place)
 
 * **Mohammadreza Amirian** (Zurich University of Applied Sciences), from team _team_zhaw_ (3rd place in feedback phase)
 
