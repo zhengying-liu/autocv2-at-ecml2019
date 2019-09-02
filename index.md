@@ -32,7 +32,7 @@ Z6, Am Hubland, 97074 Würzburg
 
 # Invited Speakers
 
-* **Jinlin Wang**, from team _ether_ (5th place)
+* **Jinlin Wang** (fuzhi.ai), from team _ether_ (5th place)
 
 * **Mohammadreza Amirian** (Zurich University of Applied Sciences), from team _team_zhaw_ (3rd place in feedback phase)
 
