@@ -6,6 +6,11 @@ layout: default
 
 Despite recent successes of deep learning and other machine learning techniques, practical experience and expertise is still required to select models and/or choose hyper-parameters when applying techniques to new datasets. This problem is drawing increasing interest, yielding progress towards fully automated solutions. In this challenge your machine learning code is trained and tested on this platform, without human intervention whatsoever, on image or video classification tasks you have never seen before, with time and memory limitations. All problems are multi-label classification problems, coming from various domains including medical imaging, satellite imaging, object recognition, character recognition, face recognition, etc. They lend themselves to deep learning solutions, but other methods may be used. Raw data is provided, but formatted in a uniform manner, to encourage you to submit generic algorithms.
 
+For more on ECML PKDD 2019, please refer to:
+- [Official website of ECML PKDD 2019](http://ecmlpkdd2019.org)
+- [ECML Discovery Challenges](http://ecmlpkdd2019.org/submissions/discovery/)
+- [Timetable](http://ecmlpkdd2019.org/programme/timetable/)
+
 # Venue
 Room: 2.007
 
