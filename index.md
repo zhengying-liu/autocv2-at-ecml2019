@@ -4,45 +4,29 @@ layout: default
 
 # Description
 
-Despite recent successes of deep learning and other machine learning techniques, practical experience and expertise is still required to select models and/or choose hyper-parameters when applying techniques to new datasets. This problem is drawing increasing interest, yielding progress towards fully automated solutions. In this challenge your machine learning code is trained and tested on this platform, without human intervention whatsoever, on image or video classification tasks you have never seen before, with time and memory limitations. All problems are multi-label classification problems, coming from various domains including medical imaging, satellite imaging, object recognition, character recognition, face recognition, etc. They lend themselves to deep learning solutions, but other methods may be used. Raw data is provided, but formatted in a uniform manner, to encourage you to submit generic algorithms.
+Despite recent successes of deep learning and other machine learning techniques, practical experience and expertise is still required to select models and/or choose hyper-parameters when applying techniques to new datasets. This problem is drawing increasing interest, yielding progress towards fully automated solutions. **AutoCV2 challenge**, among [other AutoDL challenges](https://autodl.chalearn.org/), aims to search for such solutions, without human intervention whatsoever. More specifically, participants' machine learning code is trained and tested on image or video classification tasks one has never seen before, with _time_ and _memory_ limitations. All problems are multi-label classification problems, coming from various domains including medical imaging, satellite imaging, object recognition, character recognition, face recognition, human action classification etc. They lend themselves to deep learning solutions, but other methods may be used. Raw data is provided, but formatted in a uniform manner, to encourage you to submit generic algorithms.
 
-For more on ECML PKDD 2019, please refer to:
+The winners in AutoCV2 challenge are:
+- 1st place ($2000 prize): **kakaobrain**
+- 2nd place ($1500 prize): **tanglang**
+- 3rd place ($500 prize): **kvr**
+
+Top submissions used approaches such as
+- [Fast AutoAugment](https://github.com/kakaobrain/autoclint)
+- [MobileNet](https://arxiv.org/abs/1704.04861)
+- [ResNet](https://arxiv.org/abs/1512.03385)
+
+These approaches turn out to have good **any-time learning**
+(see [challenge design](https://hal.archives-ouvertes.fr/hal-02265053))
+performance. And interestingly, the final performance is,
+for the most of the time, NOT compromised. This means that approaches have
+good any-time performance globally have good final performance.
+
+This workshop is collocated with ECML PKDD 2019. For more details,
+please refer to:
 - [Official website of ECML PKDD 2019](http://ecmlpkdd2019.org)
 - [ECML Discovery Challenges](http://ecmlpkdd2019.org/submissions/discovery/)
 - [Timetable](http://ecmlpkdd2019.org/programme/timetable/)
-
-# Venue
-Room: 2.007
-
-Building Z6, Hubland Campus, University of Würzburg
-
-Z6, Am Hubland, 97074 Würzburg
-
-# Schedule
-
-| Slot               |           Event           |
-|:------------------ |:------------------------- |
-| 14:00-14:10      | Welcome and announcement of beginning of **on-site hackathon**. |
-| 14:10-14:50      | General presentation of the AutoCV2 Challenge and AutoDL challenges. |
-| 14:50-15:10      | Invited talk 1: **Meta Neural Architecture Search**, Jinlin Wang  |
-| 15:10-15:30      | Invited talk 2: **Efficient Deep Representation Optimization for Cross-Modal Automated Deep Learning under Time and Space Constraints**, Mohammadreza Amirian  |
-| 15:30-15:40      | Recorded Presentation: **Generalized Distribution Learning for Effective Neural Architecture Search**, Lang Tang  |
-| 15:40-16:00      | Invited talk 3: **Fast AutoAugment**, Curtis Kim  |
-
-
-# Invited Speakers
-
-* **Jinlin Wang** (fuzhi.ai), from team _ether_ (5th place)
-
-* **Mohammadreza Amirian** (Zurich University of Applied Sciences), from team _team_zhaw_ (3rd place in feedback phase)
-
-* **Kirill Romanov**, from team _kvr_ (3rd place)
-
-* **Lang Tang** (Xiamen University) (to be confirmed) from team _tanglang_ (2nd place)
-
-* **Curtis Kim** (Kakao Brain) (to be confirmed) from team _kakaobrain_ (1st place, also 1st place in AutoCV Challenge)
-
-* ...
 
 # Call for Abstracts
 Challenge winners/top-rankers are invited to submit a 2-page extended abstract describing
@@ -57,6 +41,40 @@ Submission via: [autodl@chalearn.org](mailto:autodl@chalearn.org)
 # Important Dates
 * Abstract Submission Deadline: 13 September, 2019
 * Workshop: 20 September, 2019
+
+# Venue
+Room: 2.007
+
+Building Z6, Hubland Campus, University of Würzburg
+
+Z6, Am Hubland, 97074 Würzburg
+
+# Schedule
+
+| Slot               |           Event           |
+|:------------------ |:------------------------- |
+| 14:00-14:30      | Welcome and general presentation of the AutoCV2 challenge and AutoDL challenges: design and results. Issue award certificates to winners. Take photos. |
+| 14:30-14:50      | Keynote: Title to be announced, speaker to be announced. |
+| 14:50-15:00      | Invited talk 1: **Meta Neural Architecture Search**, Jinlin Wang  |
+| 15:10-15:20      | Invited talk 2: **Efficient Deep Representation Optimization for Cross-Modal Automated Deep Learning under Time and Space Constraints**, Mohammadreza Amirian  |
+| 15:20-15:30      | Invited talk 3: _Title to be announced_, Kirill Romanov  |
+| 15:30-15:45      | Recorded Presentation: **Multinomial Distribution Learning for Effective Neural Architecture Search**, Lang Tang |
+| 15:45-16:00      | Invited talk 4: **Fast AutoAugment**, Curtis Kim  |
+
+# Keynote Speaker
+_To be announced_
+
+# Invited Speakers
+
+* **Jinlin Wang** (fuzhi.ai), from team _ether_ (5th place)
+
+* **Mohammadreza Amirian** (Zurich University of Applied Sciences), from team _team_zhaw_ (3rd place in feedback phase)
+
+* **Kirill Romanov**, from team _kvr_ (3rd place)
+
+* **Lang Tang** (Xiamen University) (to be confirmed) from team _tanglang_ (2nd place)
+
+* **Curtis Kim** (Kakao Brain) (to be confirmed) from team _kakaobrain_ (1st place, also 1st place in AutoCV Challenge)
 
 # Organizers
 Workshop chairs:

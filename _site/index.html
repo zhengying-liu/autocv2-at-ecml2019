@@ -44,7 +44,51 @@
       <section id="main_content" class="inner">
         <h1 id="description">Description</h1>
 
-<p>Despite recent successes of deep learning and other machine learning techniques, practical experience and expertise is still required to select models and/or choose hyper-parameters when applying techniques to new datasets. This problem is drawing increasing interest, yielding progress towards fully automated solutions. In this challenge your machine learning code is trained and tested on this platform, without human intervention whatsoever, on image or video classification tasks you have never seen before, with time and memory limitations. All problems are multi-label classification problems, coming from various domains including medical imaging, satellite imaging, object recognition, character recognition, face recognition, etc. They lend themselves to deep learning solutions, but other methods may be used. Raw data is provided, but formatted in a uniform manner, to encourage you to submit generic algorithms.</p>
+<p>Despite recent successes of deep learning and other machine learning techniques, practical experience and expertise is still required to select models and/or choose hyper-parameters when applying techniques to new datasets. This problem is drawing increasing interest, yielding progress towards fully automated solutions. <strong>AutoCV2 challenge</strong>, among <a href="https://autodl.chalearn.org/">other AutoDL challenges</a>, aims to search for such solutions, without human intervention whatsoever. More specifically, participants’ machine learning code is trained and tested on image or video classification tasks one has never seen before, with <em>time</em> and <em>memory</em> limitations. All problems are multi-label classification problems, coming from various domains including medical imaging, satellite imaging, object recognition, character recognition, face recognition, human action classification etc. They lend themselves to deep learning solutions, but other methods may be used. Raw data is provided, but formatted in a uniform manner, to encourage you to submit generic algorithms.</p>
+
+<p>The winners in AutoCV2 challenge are:</p>
+<ul>
+  <li>1st place ($2000 prize): <strong>kakaobrain</strong></li>
+  <li>2nd place ($1500 prize): <strong>tanglang</strong></li>
+  <li>3rd place ($500 prize): <strong>kvr</strong></li>
+</ul>
+
+<p>Top submissions used approaches such as</p>
+<ul>
+  <li><a href="https://github.com/kakaobrain/autoclint">Fast AutoAugment</a></li>
+  <li><a href="https://arxiv.org/abs/1704.04861">MobileNet</a></li>
+  <li><a href="https://arxiv.org/abs/1512.03385">ResNet</a></li>
+</ul>
+
+<p>These approaches turn out to have good <strong>any-time learning</strong>
+(see <a href="https://hal.archives-ouvertes.fr/hal-02265053">challenge design</a>)
+performance. And interestingly, the final performance is,
+for the most of the time, NOT compromised. This means that approaches have
+good any-time performance globally have good final performance.</p>
+
+<p>This workshop is collocated with ECML PKDD 2019. For more details,
+please refer to:</p>
+<ul>
+  <li><a href="http://ecmlpkdd2019.org">Official website of ECML PKDD 2019</a></li>
+  <li><a href="http://ecmlpkdd2019.org/submissions/discovery/">ECML Discovery Challenges</a></li>
+  <li><a href="http://ecmlpkdd2019.org/programme/timetable/">Timetable</a></li>
+</ul>
+
+<h1 id="call-for-abstracts">Call for Abstracts</h1>
+<p>Challenge winners/top-rankers are invited to submit a 2-page extended abstract describing
+their approach used in AutoCV2 Challenge.</p>
+
+<p>Papers must be written in English and formatted according to the Springer LNCS
+guidelines. Author instructions, style files and the copyright form can be
+downloaded <a href="http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">here</a>.</p>
+
+<p>Submission via: <a href="mailto:autodl@chalearn.org">autodl@chalearn.org</a></p>
+
+<h1 id="important-dates">Important Dates</h1>
+<ul>
+  <li>Abstract Submission Deadline: 13 September, 2019</li>
+  <li>Workshop: 20 September, 2019</li>
+</ul>
 
 <h1 id="venue">Venue</h1>
 <p>Room: 2.007</p>
@@ -64,37 +108,44 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">14:00-14:10</td>
-      <td style="text-align: left">Welcome and announcement of beginning of <strong>on-site hackathon</strong>.</td>
+      <td style="text-align: left">14:00-14:30</td>
+      <td style="text-align: left">Welcome and general presentation of the AutoCV2 challenge and AutoDL challenges: design and results. Issue award certificates to winners. Take photos.</td>
     </tr>
     <tr>
-      <td style="text-align: left">14:10-14:50</td>
-      <td style="text-align: left">General presentation of the AutoCV2 Challenge and AutoDL challenges.</td>
+      <td style="text-align: left">14:30-14:50</td>
+      <td style="text-align: left">Keynote: Title to be announced, speaker to be announced.</td>
     </tr>
     <tr>
-      <td style="text-align: left">14:50-15:10</td>
-      <td style="text-align: left">Invited talk 1: <strong>Meta Neural Architecture Search</strong>, Chenglin Wu</td>
+      <td style="text-align: left">14:50-15:00</td>
+      <td style="text-align: left">Invited talk 1: <strong>Meta Neural Architecture Search</strong>, Jinlin Wang</td>
     </tr>
     <tr>
-      <td style="text-align: left">15:10-15:30</td>
+      <td style="text-align: left">15:10-15:20</td>
       <td style="text-align: left">Invited talk 2: <strong>Efficient Deep Representation Optimization for Cross-Modal Automated Deep Learning under Time and Space Constraints</strong>, Mohammadreza Amirian</td>
     </tr>
     <tr>
-      <td style="text-align: left">15:30-15:40</td>
-      <td style="text-align: left">Recorded Presentation: <strong>Generalized Distribution Learning for Effective Neural Architecture Search</strong>, Lang Tang</td>
+      <td style="text-align: left">15:20-15:30</td>
+      <td style="text-align: left">Invited talk 3: <em>Title to be announced</em>, Kirill Romanov</td>
     </tr>
     <tr>
-      <td style="text-align: left">15:40-16:00</td>
-      <td style="text-align: left">Invited talk 3: <strong>Fast AutoAugment</strong>, Curtis Kim</td>
+      <td style="text-align: left">15:30-15:45</td>
+      <td style="text-align: left">Recorded Presentation: <strong>Multinomial Distribution Learning for Effective Neural Architecture Search</strong>, Lang Tang</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">15:45-16:00</td>
+      <td style="text-align: left">Invited talk 4: <strong>Fast AutoAugment</strong>, Curtis Kim</td>
     </tr>
   </tbody>
 </table>
+
+<h1 id="keynote-speaker">Keynote Speaker</h1>
+<p><em>To be announced</em></p>
 
 <h1 id="invited-speakers">Invited Speakers</h1>
 
 <ul>
   <li>
-    <p><strong>Chenglin Wu</strong>, from team <em>ether</em> (5th place)</p>
+    <p><strong>Jinlin Wang</strong> (fuzhi.ai), from team <em>ether</em> (5th place)</p>
   </li>
   <li>
     <p><strong>Mohammadreza Amirian</strong> (Zurich University of Applied Sciences), from team <em>team_zhaw</em> (3rd place in feedback phase)</p>
@@ -108,25 +159,6 @@
   <li>
     <p><strong>Curtis Kim</strong> (Kakao Brain) (to be confirmed) from team <em>kakaobrain</em> (1st place, also 1st place in AutoCV Challenge)</p>
   </li>
-  <li>
-    <p>…</p>
-  </li>
-</ul>
-
-<h1 id="call-for-abstracts">Call for Abstracts</h1>
-<p>Challenge winners are invited to submit a 2-page extended abstract describing
-their approach used in AutoCV2 Challenge.</p>
-
-<p>Papers must be written in English and formatted according to the Springer LNCS
-guidelines. Author instructions, style files and the copyright form can be
-downloaded <a href="http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">here</a>.</p>
-
-<p>Submission via: <a href="mailto:autodl@chalearn.org">autodl@chalearn.org</a></p>
-
-<h1 id="important-dates">Important Dates</h1>
-<ul>
-  <li>Abstract Submission Deadline: 13 September, 2019</li>
-  <li>Workshop: 20 September, 2019</li>
 </ul>
 
 <h1 id="organizers">Organizers</h1>
