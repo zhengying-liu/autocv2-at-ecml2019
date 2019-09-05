@@ -4,9 +4,11 @@ layout: default
 
 # Description
 
-Despite recent successes of deep learning and other machine learning techniques, practical experience and expertise is still required to select models and/or choose hyper-parameters when applying techniques to new datasets. This problem is drawing increasing interest, yielding progress towards fully automated solutions. **AutoCV2 challenge**, among [other AutoDL challenges](https://autodl.chalearn.org/), aims to search for such solutions, without human intervention whatsoever. More specifically, participants' machine learning code is trained and tested on image or video classification tasks one has never seen before, with _time_ and _memory_ limitations. All problems are multi-label classification problems, coming from various domains including medical imaging, satellite imaging, object recognition, character recognition, face recognition, human action classification etc. They lend themselves to deep learning solutions, but other methods may be used. Raw data is provided, but formatted in a uniform manner, to encourage you to submit generic algorithms.
+Despite recent successes of deep learning and other machine learning techniques, practical experience and expertise is still required to select models and/or choose hyper-parameters when applying techniques to new datasets. This problem is drawing increasing interest, yielding progress towards fully automated solutions. **AutoCV2 challenge**, among [other AutoDL challenges](https://autodl.chalearn.org/), aims to search for such solutions, without human intervention whatsoever. More specifically, participants' machine learning code is trained and tested on image or video classification tasks one has never seen before, with _time_ and _memory_ limitations. All problems are multi-label classification problems, coming from various domains including medical imaging, satellite imaging, object recognition, character recognition, face recognition, human action classification etc.
 
-The winners in AutoCV2 challenge are:
+In this workshop, we'll present the challenge results. Challenge winners are
+invited to introduce their approaches. This is also the occasion to have a brief
+award ceremony. The winners in AutoCV2 challenge are:
 - 1st place ($2000 prize): **kakaobrain**
 - 2nd place ($1500 prize): **tanglang**
 - 3rd place ($500 prize): **kvr**
