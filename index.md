@@ -55,11 +55,11 @@ Z6, Am Hubland, 97074 Würzburg
 |:------------------ |:------------------------- |
 | 14:00-14:30      | Welcome and general presentation of the AutoCV2 challenge and AutoDL challenges: design and results. Issue award certificates to winners. Take photos. |
 | 14:30-14:50      | Keynote: Title to be announced, speaker to be announced. |
-| 14:50-15:00      | Invited talk 1: **Meta Neural Architecture Search**, Jinlin Wang  |
-| 15:10-15:20      | Invited talk 2: **Efficient Deep Representation Optimization for Cross-Modal Automated Deep Learning under Time and Space Constraints**, Mohammadreza Amirian  |
-| 15:20-15:30      | Invited talk 3: _Title to be announced_, Kirill Romanov  |
-| 15:30-15:45      | Recorded Presentation: **Multinomial Distribution Learning for Effective Neural Architecture Search**, Lang Tang |
-| 15:45-16:00      | Invited talk 4: **Fast AutoAugment**, Curtis Kim  |
+| 14:50-15:00      | Invited talk 1: **Meta Neural Architecture Search**, Jinlin Wang, _ether_   |
+| 15:10-15:20      | Invited talk 2: **Efficient Deep Representation Optimization for Cross-Modal Automated Deep Learning under Time and Space Constraints**, Mohammadreza Amirian, _team_zhaw_  |
+| 15:20-15:30      | Invited talk 3: **My Way to Build Fast, Scalable and Generalized Computer Vision Model**, Kirill Romanov, _kvr_  |
+| 15:30-15:45      | Recorded Presentation: **Multinomial Distribution Learning for Effective Neural Architecture Search**, Lang Tang, _tanglang_ |
+| 15:45-16:00      | Invited talk 4: **Fast AutoAugment**, Curtis Kim, _kakaobrain_  |
 
 # Keynote Speaker
 _To be announced_
@@ -72,7 +72,7 @@ _To be announced_
 
 * **Kirill Romanov**, from team _kvr_ (3rd place)
 
-* **Lang Tang** (Xiamen University) (to be confirmed) from team _tanglang_ (2nd place)
+* **Lang Tang** (Xiamen University) from team _tanglang_ (2nd place)
 
 * **Curtis Kim** (Kakao Brain) (to be confirmed) from team _kakaobrain_ (1st place, also 1st place in AutoCV Challenge)
 
