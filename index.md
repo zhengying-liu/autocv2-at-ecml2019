@@ -9,8 +9,8 @@ Despite recent successes of deep learning and other machine learning techniques,
 In this workshop, we'll present the challenge results. Challenge winners are
 invited to introduce their approaches. This is also the occasion to have a brief
 award ceremony. The winners in AutoCV2 challenge are:
-- 1st place ($2000 prize): **kakaobrain**
-- 2nd place ($1500 prize): **tanglang**
+- 1st place ($2000 prize): **kakaobrain** ([GitHub repo](https://github.com/kakaobrain/autoclint))
+- 2nd place ($1500 prize): **tanglang** ([GitHub repo](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Ftanglang96%2FAutoCV2&sa=D&sntz=1&usg=AFQjCNGZgGsHNqkoQvpqkZ0JVDEzRZvfKQ))
 - 3rd place ($500 prize): **kvr**
 
 Top submissions used approaches such as
