@@ -6,3 +6,6 @@ theme: jekyll-theme-slate
 github:
   is_project_page: true
   repository_url: http://autodl.chalearn.org
+page:
+  title: AutoCV2 Challenge Workshop
+  description: ECML PKDD 2019
