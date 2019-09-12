@@ -56,15 +56,21 @@ Z6, Am Hubland, 97074 Würzburg
 | Slot               |           Event           |
 |:------------------ |:------------------------- |
 | 14:00-14:30      | Welcome and general presentation of the AutoCV2 challenge and AutoDL challenges: design and results. Issue award certificates to winners. Take photos. |
-| 14:30-14:50      | Keynote: Title to be announced, speaker to be announced. |
-| 14:50-15:00      | Invited talk 1: **Meta Neural Architecture Search**, Jinlin Wang, _ether_   |
+| 14:30-15:00      | Keynote: **Open Source AutoML Benchmarking: towards an AutoML Gym**, Joaquin Vanschoren. |
+| 15:00-15:10      | Invited talk 1: **Meta Neural Architecture Search**, Jinlin Wang, _ether_   |
 | 15:10-15:20      | Invited talk 2: **Efficient Deep Representation Optimization for Cross-Modal Automated Deep Learning under Time and Space Constraints**, Mohammadreza Amirian, _team_zhaw_  |
 | 15:20-15:30      | Invited talk 3: **My Way to Build Fast, Scalable and Generalized Computer Vision Model**, Kirill Romanov, _kvr_  |
 | 15:30-15:45      | Recorded Presentation: **Multinomial Distribution Learning for Effective Neural Architecture Search**, Lang Tang, _tanglang_ |
 | 15:45-16:00      | Invited talk 4: **Fast AutoAugment**, Curtis Kim, _kakaobrain_  |
 
 # Keynote Speaker
-_To be announced_
+<img src="https://joaquinvanschoren.github.io/home/images/profilepic.jpg" alt="Joaquin Vanschoren" style="width:100px;">
+
+[<span style="font-size:1.5em;">Joaquin Vanschoren</span>](https://joaquinvanschoren.github.io/home/)
+
+Assistant professor of machine learning at TU/e (Eindhoven University of Technology)
+
+Founder of [OpenML.org](https://www.openml.org/)
 
 # Invited Speakers
 
