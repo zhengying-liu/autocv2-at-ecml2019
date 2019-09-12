@@ -64,7 +64,7 @@ Z6, Am Hubland, 97074 Würzburg
 | 15:45-16:00      | Invited talk 4: **Fast AutoAugment**, Curtis Kim, _kakaobrain_  |
 
 # Keynote Speaker
-<img src="https://joaquinvanschoren.github.io/home/images/profilepic.jpg" alt="Joaquin Vanschoren" style="width:100px;">
+<img src="https://joaquinvanschoren.github.io/home/images/profilepic.jpg" alt="Joaquin Vanschoren" style="width:220px;">
 
 [<span style="font-size:1.5em;">Joaquin Vanschoren</span>](https://joaquinvanschoren.github.io/home/)
 
