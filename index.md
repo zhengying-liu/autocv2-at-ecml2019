@@ -58,7 +58,7 @@ Z6, Am Hubland, 97074 Würzburg
 | 14:00-14:30      | Welcome and general presentation of the AutoCV2 challenge and AutoDL challenges: design and results. Issue award certificates to winners. Take photos. |
 | 14:30-15:00      | Keynote: **Open Source AutoML Benchmarking: towards an AutoML Gym**, Joaquin Vanschoren. |
 | 15:00-15:10      | Invited talk 1: **Meta Neural Architecture Search**, Jinlin Wang, _ether_   |
-| 15:10-15:20      | Invited talk 2: **Efficient Deep Representation Optimization for Cross-Modal Automated Deep Learning under Time and Space Constraints**, Mohammadreza Amirian, _team_zhaw_  |
+| 15:10-15:20      | Invited talk 2: **Efficient Deep Representation Optimization for Cross-Modal Automated Deep Learning under Time and Space Constraints**, Mohammadreza Amirian, _team_zhaw_, [extended abstract](https://drive.google.com/file/d/1OaZa-8AQefaY00wLrkp5pkhmdoyER7bY/view?usp=sharing)  |
 | 15:20-15:30      | Invited talk 3: **My Way to Build Fast, Scalable and Generalized Computer Vision Model**, Kirill Romanov, _kvr_  |
 | 15:30-15:45      | Recorded Presentation: **Multinomial Distribution Learning for Effective Neural Architecture Search**, Lang Tang, _tanglang_ |
 | 15:45-16:00      | Invited talk 4: **Fast AutoAugment**, Curtis Kim, _kakaobrain_  |
@@ -71,6 +71,11 @@ Z6, Am Hubland, 97074 Würzburg
 Assistant professor of machine learning at TU/e (Eindhoven University of Technology)
 
 Founder of [OpenML.org](https://www.openml.org/)
+
+**Talk title**: Open Source AutoML Benchmarking: towards an AutoML Gym
+
+**Abstract**:
+In recent years, an active field of research has developed around automated machine learning (AutoML). Unfortunately, comparing different AutoML systems is hard and often done incorrectly. First, we currently lack standardized, easily-accessible, and challenging benchmarking suites of tasks. This often results in suboptimal shortcuts in study designs, exacerbated by a focus on competition rather than understanding, which makes papers very hard to compare and reproduce. Second, we lack a standardized environment for experimentation and publications. Subtle differences in the problem definition can drastically alter a task’s difficulty, which makes it difficult to reproduce published research and compare results from different papers. Third, we lack a meta-learning environment, a global memory where AutoML systems can easily access meta-data from previous ML experiments and can upload their own. We propose to build a global, open source environment for training and evaluating AutoML systems - an **AutoML Gym** - that addresses these issues.
 
 # Invited Speakers
 
