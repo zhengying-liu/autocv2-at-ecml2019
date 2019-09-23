@@ -58,9 +58,9 @@ Z6, Am Hubland, 97074 Würzburg
 | 14:00-14:30      | Welcome and general presentation of the AutoCV2 challenge and AutoDL challenges: design and results. Issue award certificates to winners. Take photos. |
 | 14:30-15:00      | Keynote: **Open Source AutoML Benchmarking: towards an AutoML Gym**, Joaquin Vanschoren. |
 | 15:00-15:10      | Invited talk 1: **Meta Neural Architecture Search**, Jinlin Wang, _ether_   |
-| 15:10-15:20      | Invited talk 2: **Efficient Deep Representation Optimization for Cross-Modal Automated Deep Learning under Time and Space Constraints**, Mohammadreza Amirian, _team_zhaw_, [extended abstract](https://drive.google.com/file/d/1OaZa-8AQefaY00wLrkp5pkhmdoyER7bY/view?usp=sharing)  |
-| 15:20-15:30      | Invited talk 3: **My Way to Build Fast, Scalable and Generalized Computer Vision Model**, Kirill Romanov, _kvr_  |
-| 15:30-15:45      | Recorded Presentation: **Multinomial Distribution Learning for Effective Neural Architecture Search**, Lang Tang, _tanglang_ |
+| 15:10-15:20      | Invited talk 2: **Efficient Deep Representation Optimization for Cross-Modal Automated Deep Learning under Time and Space Constraints**, Mohammadreza Amirian, _team_zhaw_, [extended abstract](https://drive.google.com/file/d/1OaZa-8AQefaY00wLrkp5pkhmdoyER7bY/view?usp=sharing), [slides](https://drive.google.com/file/d/1bHvej3C9WRvn3G6Rftfi9DsrJfGwBXMm/view?usp=sharing)  |
+| 15:20-15:30      | Invited talk 3: **My Way to Build Fast, Scalable and Generalized Computer Vision Model**, Kirill Romanov, _kvr_, [slides](https://drive.google.com/file/d/1bHvej3C9WRvn3G6Rftfi9DsrJfGwBXMm/view?usp=sharing)  |
+| 15:30-15:45      | Recorded Presentation: **Multinomial Distribution Learning for Effective Neural Architecture Search**, Lang Tang, _tanglang_, [video](https://drive.google.com/file/d/1YJn60cGaJVs0hbpIurA_3BWm-bpmMl6O/view?usp=sharing) |
 | 15:45-16:00      | Invited talk 4: **Fast AutoAugment**, Curtis Kim, _kakaobrain_  |
 
 # Keynote Speaker
