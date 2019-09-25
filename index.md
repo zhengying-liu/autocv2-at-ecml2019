@@ -55,7 +55,7 @@ Z6, Am Hubland, 97074 Würzburg
 
 | Slot               |           Event           |
 |:------------------ |:------------------------- |
-| 14:00-14:30      | Welcome and general presentation of the AutoCV2 challenge and AutoDL challenges: design and results. Issue award certificates to winners. Take photos. |
+| 14:00-14:30      | Welcome and general presentation of the AutoCV2 challenge and AutoDL challenges: design and results. Issue award certificates to winners. Take photos. [slides](https://drive.google.com/file/d/1LQTvgZUVjkJDbB-oaTVweC7bX1_6kqk7/view?usp=sharing), [photos](https://photos.app.goo.gl/KHcE9aKSmFMjs3Bt9) |
 | 14:30-15:00      | Keynote: **Open Source AutoML Benchmarking: towards an AutoML Gym**, Joaquin Vanschoren. |
 | 15:00-15:10      | Invited talk 1: **Meta Neural Architecture Search**, Jinlin Wang, _ether_   |
 | 15:10-15:20      | Invited talk 2: **Efficient Deep Representation Optimization for Cross-Modal Automated Deep Learning under Time and Space Constraints**, Mohammadreza Amirian, _team_zhaw_, [extended abstract](https://drive.google.com/file/d/1OaZa-8AQefaY00wLrkp5pkhmdoyER7bY/view?usp=sharing), [slides](https://drive.google.com/file/d/1bHvej3C9WRvn3G6Rftfi9DsrJfGwBXMm/view?usp=sharing)  |
